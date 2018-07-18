@@ -1,1 +1,3 @@
-# company
+# Company
+
+Training App
